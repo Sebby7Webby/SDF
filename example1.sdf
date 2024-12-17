@@ -1,0 +1,18 @@
+$ %pasta%
+
+Moms: {
+    aldente: true;
+    saucy: false;
+    shapes: [spaghetti, rigatoni, fusuli];
+}
+
+$
+
+-------------
+
+pasta
+ | Moms:
+   |
+   |aldente = true
+   |saucy = false
+   |shapes = [spaghetti, rigatoni, fusuli]

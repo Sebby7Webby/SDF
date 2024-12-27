@@ -33,3 +33,7 @@
 
 # My Batch scripts
 *.bat
+
+# All tests
+test*
+Makefile

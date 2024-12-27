@@ -1,16 +1,16 @@
-$ %pasta%
+$ %pasta% 
 
 Moms: {
     aldente: true;
-    saucy: false;
+    saucy: 6;
     shapes: ["spaghetti", "rigatoni", "fusuli"];
-}
+};
 
 Grandmas: {
     aldente: false;
-    saucy: true;
+    saucy: 10;
     shapes: ["spaghetti", "pizza?", "fettucine"];
-}
+};
 
 amnt: 54;
 

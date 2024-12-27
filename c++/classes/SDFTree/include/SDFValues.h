@@ -3,18 +3,20 @@
 #include <string>
 #include <vector>
 
+namespace SDF {
+
 class SDFValue {
-
-};
-
-class SDFSpacial : public SDFValue {
 public:
 private:
-    std::string name;
-    std::vector<SDFValue> values;
 };
 
 class SDFBlock : public SDFValue {
 public:
 private:
 };
+
+class SDFBool : public SDFValue {
+
+};
+
+}
